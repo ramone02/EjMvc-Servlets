@@ -9,7 +9,8 @@
             <li class="text-black">${error}</li>                        
         </c:forEach>
     </ul>
-    <div>
+    <div> 
+        
         <button class="btn btn-success"><a class="text-black"href="/ejemplomvc3/contacto">Volver</a></button>
     </div>
 </div>
